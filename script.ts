@@ -10,6 +10,16 @@
 
 // undefined
 
+// Quelli particolari sono:
+
+// any
+
+// never
+
+// maybe
+
+// void
+
 /* ~ . ~ . ~ Esercizio 2 ~ . ~ . ~ */
 
 let firstName: string = "Rosario";
